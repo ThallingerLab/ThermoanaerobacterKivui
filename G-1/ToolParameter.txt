@@ -1,4 +1,10 @@
-Tool              Version      Parameters
-porechop                       default
-trimmomatic
-canu              2.2          
+Tool              Version        Parameters
+guppy             6.4.6          super-high accuracy mode
+seqkit            2.4.0          sort --by-length --reverse --quiet
+porechop          0.2.4          default
+trimmomatic       0.39           -phred33 ILLUMINACLIP:TruSeq3-PE-2.fa:2:30:10:2:true LEADING:3 TRAILING:3 SLIDINGWINDOW:4:15 MINLEN:100 
+canu              2.2            genomeSize=2.4m maxThreads=7 useGrid=false -nanopore
+minimap2          2.24-r1122     --secondary=no --MD -ax -sr -t 7 
+HyPo              1.0.3          -t 5 -c 115 -s 2.4
+BLAST             2.14.0         -dust no outfmt 6 -word_size 2000
+NucDiff           2.0.3          --vcf yes
