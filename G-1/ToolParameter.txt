@@ -1,0 +1,4 @@
+Tool              Version      Parameters
+porechop                       default
+trimmomatic
+canu              2.2          
