@@ -1,0 +1,80 @@
+locus_tag	gene	product
+TKV_RS00335		beta-galactosidase trimerization domain-containing protein, GH5 family 
+TKV_RS00340		glycosidase, GH130 family 
+TKV_RS00345		glycosidase, GH130 family
+TKV_RS00355		glycosyltransferase family 4 protein, GT4 family
+TKV_RS00385	fumA	fumarate hydratase subunit alpha
+TKV_RS00390	fumB	fumarate hydratase subunit beta
+TKV_RS00615	ech1A	CO-oxidizing Ech-type membrane-associated [NiFe]-hydrogenase, Ech1A subunit
+TKV_RS00620	ech1B	CO-oxidizing Ech-type membrane-associated [NiFe]-hydrogenase, Ech1B subunit
+TKV_RS00625	ech1C	CO-oxidizing Ech-type membrane-associated [NiFe]-hydrogenase, Ech1C subunit
+TKV_RS00630	ech1F	CO-oxidizing Ech-type membrane-associated [NiFe]-hydrogenase, Ech1F subunit
+TKV_RS00635	hycB1	CO-oxidizing Ech-type membrane-associated [NiFe]-hydrogenase, HycB1 subunit
+TKV_RS00650	ech1D	CO-oxidizing Ech-type membrane-associated [NiFe]-hydrogenase, Ech1D subunit
+TKV_RS00655	ech1E	CO-oxidizing Ech-type membrane-associated [NiFe]-hydrogenase, Ech1E subunit
+TKV_RS01135	ldhA	L-lactate dehydrogenase
+TKV_RS02115	pfor1	pyruvate:ferredoxin oxidoreductase
+TKV_RS08015	fdx2	[4Fe4S] ferredoxin
+TKV_RS06375		glycosyltransferase family 2 protein, GT2 family
+TKV_RS06310		polysaccharide deacetylase family protein, CE4 family
+TKV_RS06080	pyc	pyruvate carboxylase
+TKV_RS05930		glycosyltransferase family 2 protein, GT2 family
+TKV_RS05250		LysM peptidoglycan-binding domain-containing protein, CBM50 family
+TKV_RS04740		glycosyltransferase family 4 protein, GT4 family
+TKV_RS04630	fdx1	[4Fe4S] ferredoxin
+TKV_RS04350		lytic transglycosylase domain-containing protein, GH23 family
+TKV_RS04310		lytic transglycosylase domain-containing protein, GH23 family
+TKV_RS04075		cell wall hydrolase, CBM50 family
+TKV_RS03975		glycosyl hydrolase family 65 protein, GH65 family
+TKV_RS03880	cooF1	monofunctional anaerobic carbon-monoxide dehydrogenase accessory protein CooF1
+TKV_RS03875	cooS	monofunctional anaerobic carbon-monoxide dehydrogenase catalytic subunit CooS
+TKV_RS03235		glycosyltransferase, GTnC family
+TKV_RS03225		glycosyltransferase, GT4 family
+TKV_RS08260		glycoside hydrolase family 13 protein, CBM34 / GH13 family
+TKV_RS08880		delta-lactam-biosynthetic de-N-acetylase, CE4 family
+TKV_RS09020		glucoamylase family protein, GT84 / GH94 family
+TKV_RS09250		serine hydrolase, CBM50 family
+TKV_RS09370		2-oxoglutarate/2-oxoacid ferredoxin oxidoreductase subunit gamma
+TKV_RS09375		2-oxoglutarate/2-oxoacid ferredoxin oxidoreductase subunit beta
+TKV_RS09380		2-oxoglutarate/2-oxoacid ferredoxin oxidoreductase subunit alpha
+TKV_RS09385		2-oxoglutarate/2-oxoacid ferredoxin oxidoreductase subunit delta
+TKV_RS09395	buk2	
+TKV_RS09405	ptb	
+TKV_RS09410	buk1	
+TKV_RS09455		LysM peptidoglycan-binding domain-containing protein, CBM50 family
+TKV_RS09535	hydA1	electron-bifurcating NADP+- and ferredoxin-dependent [FeFe]-hydrogenase, HydA1 subunit
+TKV_RS09540	hydB	electron-bifurcating NADP+- and ferredoxin-dependent [FeFe]-hydrogenase, HydB subunit
+TKV_RS09545	hydC	electron-bifurcating NADP+- and ferredoxin-dependent [FeFe]-hydrogenase, HydC subunit
+TKV_RS09580	ech2F	ferredoxin-oxidizing Ech-type membrane-associated [NiFe]-hydrogenase, Ech2F subunit
+TKV_RS09585	ech2B	ferredoxin-oxidizing Ech-type membrane-associated [NiFe]-hydrogenase, Ech2B subunit
+TKV_RS09590	ech2C	ferredoxin-oxidizing Ech-type membrane-associated [NiFe]-hydrogenase, Ech2C subunit
+TKV_RS09595	ech2A2	ferredoxin-oxidizing Ech-type membrane-associated [NiFe]-hydrogenase, Ech2A2 subunit
+TKV_RS09600	ech2A1	ferredoxin-oxidizing Ech-type membrane-associated [NiFe]-hydrogenase, Ech2A1 subunit
+TKV_RS09605	hycB2	ferredoxin-oxidizing Ech-type membrane-associated [NiFe]-hydrogenase accessory protein HycB2
+TKV_RS09610	ech2E	ferredoxin-oxidizing Ech-type membrane-associated [NiFe]-hydrogenase, Ech2E subunit
+TKV_RS09615	ech2D	ferredoxin-oxidizing Ech-type membrane-associated [NiFe]-hydrogenase, Ech2D subunit
+TKV_RS09670	cooC	carbon monoxide dehydrogenase accessory protein CooC
+TKV_RS09680	metF	methylene-THF reductase, MetF subunit
+TKV_RS09685	metV	methylene-THF reductase, MetV subunit
+TKV_RS09690	folD	methylene-THF dehydrogenase FolD
+TKV_RS09695	fchA	methenyl-THF cyclohydrolase FchA
+TKV_RS09705	fhs	formyl-THF synthetase Fhs
+TKV_RS09715	fdhD	hydrogen-dependent CO2 reductase, FdhD subunit
+TKV_RS09720	hydA2	hydrogen-dependent CO2 reductase, subunit HydA2
+TKV_RS09725	hycB4	hydrogen-dependent CO2 reductase, subunit HycB4
+TKV_RS09730	hycB3	hydrogen-dependent CO2 reductase, subunit HycB3
+TKV_RS09735	fdhF	hydrogen-dependent CO2 reductase, subunit FdhF
+TKV_RS09790	cooC2	carbon monoxide dehydrogenase accessory protein CooC2
+TKV_RS09795	acsA	carbon monoxide dehydrogenase/acetyl-CoA synthase CO dehydrogenase subunit AcsA
+TKV_RS09800	cooF2	carbon monoxide dehydrogenase accessory protein CooF2
+TKV_RS10045	tuf1	
+TKV_RS10115	tuf2	
+TKV_RS10470	pfor2	pyruvate:ferredoxin (flavodoxin) oxidoreductase
+TKV_RS10870	nfnA	NAD+-dependent NADPH:Fd oxidoreductase, NfnA subunit
+TKV_RS10875	nfnB	NAD+-dependent NADPH:Fd oxidoreductase, NfnB subunit
+TKV_RS11295	fruA1	
+TKV_RS11300	fruA2	
+TKV_RS11305	fruK	
+TKV_RS11320		stalk domain-containing protein, GH26 family
+TKV_RS11450		glycosidase, GH130 family
+TKV_RS11715		peptidoglycan DD-metalloendopeptidase family protein, CBM50 family
